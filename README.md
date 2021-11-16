@@ -2,7 +2,7 @@
 
 ## 2021_HW01
 input:
-  two 2D-array
+    two 2D-array
 
 output: 
 1. first  2d-array
